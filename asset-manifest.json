@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BreakingBad-github.io/static/css/main.7695327b.css",
+    "main.js": "/BreakingBad-github.io/static/js/main.81e459ae.js",
+    "static/js/787.4efa206a.chunk.js": "/BreakingBad-github.io/static/js/787.4efa206a.chunk.js",
+    "static/media/spinner.gif": "/BreakingBad-github.io/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/BreakingBad-github.io/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/BreakingBad-github.io/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/BreakingBad-github.io/index.html",
+    "main.7695327b.css.map": "/BreakingBad-github.io/static/css/main.7695327b.css.map",
+    "main.81e459ae.js.map": "/BreakingBad-github.io/static/js/main.81e459ae.js.map",
+    "787.4efa206a.chunk.js.map": "/BreakingBad-github.io/static/js/787.4efa206a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7695327b.css",
+    "static/js/main.81e459ae.js"
+  ]
+}
